@@ -1,0 +1,7 @@
+ID     Name     Age     Score
+1      Michael  23      10
+2      Mike     21      9
+3      Roger    24      10
+4      Deric    22      10
+5      John     20      8
+6      James    22      7

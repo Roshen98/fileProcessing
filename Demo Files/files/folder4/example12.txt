@@ -1,0 +1,2 @@
+ID     Name     Age     Score
+69     Harper   27	2

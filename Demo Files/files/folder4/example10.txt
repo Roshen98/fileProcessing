@@ -1,0 +1,3 @@
+ID     Name     Age     Score
+95     Sophia   20	6
+46     Ava      19	10

@@ -1,0 +1,7 @@
+ID     Name     Age     Score
+53     Joseph    23      10
+51     Jacob     21      9
+50     Timothy   24      10
+52     Joshua    22      10
+56     Lucas     20      8
+58     Taiyon    22      7

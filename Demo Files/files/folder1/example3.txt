@@ -1,0 +1,7 @@
+ID     Name     Age     Score
+13     John  	20      7
+14     Jake     22      8
+15     James    21      10
+16     Jacob    20      10
+17     Alysia   25      1
+18     Lan    	26      0

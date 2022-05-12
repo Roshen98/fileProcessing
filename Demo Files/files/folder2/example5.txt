@@ -1,0 +1,4 @@
+ID     Name     Age     Score
+34     Henry	23	10
+41     Lucas	19	8
+50     Alex	18	5

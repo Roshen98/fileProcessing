@@ -1,0 +1,4 @@
+ID     Name     Age     Score
+90     Amelia	24	3
+93     Isabella 18	4
+55     Mia	22	10

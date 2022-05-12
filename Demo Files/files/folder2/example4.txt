@@ -1,0 +1,7 @@
+ID     Name     Age     Score
+19     Liam  	 20      7
+20     Noah      19      9
+21     Oliver    17      10
+22     Elijah    22      7
+23     William   29      5
+24     Benjamin  25      6
