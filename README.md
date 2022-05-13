@@ -1,8 +1,12 @@
 # fileProcessing
 
 COMPILAITON:
+
+
 cd Demo\ Files 
+
 g++ file_process.cpp -o a.out
+
 /a.out
 
 All the files will be shown.
